@@ -60,7 +60,7 @@ I'm a passionate software developer from Rwanda, building modern web apps and di
 
 ### 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/gadishimwecode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadyishimwe1@gmail.com)
+[![Gmail](https://img.shields.io/badge/gadyishimwe1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadyishimwe1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadishiimwe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
