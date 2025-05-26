@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Gad Ishimwe
 
-<!--
-**gadishiimwe/gadishiimwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer based in Rwanda, focused on building powerful, clean, and modern web applications. I enjoy turning ideas into real-world solutions using both frontend and backend technologies.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Node.js, Express.js, PHP (Laravel), Python (Django)  
+- **Database:** MySQL  
+- **Others:** Git & GitHub, REST APIs, LocalWP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+- 🌐 [RwejoTEK](#) – IT company website  
+- 📚 [Esomo](#) – Education platform  
+- 🚗 [Mufasa Business Group](#) – Car rental service  
+- ✝️ [United Christian Church](#) – Church website  
+
+### 🎯 Goals
+- Build scalable platforms for African innovation 🌍  
+- Master full-stack development  
+- Grow **IntareTek** into a top-tier software company  
+
+### 📫 Let's Connect
+- Email: gadyishimwe1@gmail.com
