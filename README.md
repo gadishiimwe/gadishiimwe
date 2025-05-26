@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gad Ishimwe
+# Gad Ishimwe
 
 I'm a passionate Software Developer based in Rwanda, focused on building powerful, clean, and modern web applications. I enjoy turning ideas into real-world solutions using both frontend and backend technologies.
 
