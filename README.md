@@ -8,16 +8,9 @@ I'm a passionate Software Developer based in Rwanda, focused on building powerfu
 - **Database:** MySQL  
 - **Others:** Git & GitHub, REST APIs, LocalWP
 
-### 💼 Projects
-- 🌐 [RwejoTEK](#) – IT company website  
-- 📚 [Esomo](#) – Education platform  
-- 🚗 [Mufasa Business Group](#) – Car rental service  
-- ✝️ [United Christian Church](#) – Church website  
-
 ### 🎯 Goals
 - Build scalable platforms for African innovation 🌍  
-- Master full-stack development  
-- Grow **IntareTek** into a top-tier software company  
+- Master full-stack development   
 
 ### 📫 Let's Connect
 - Email: gadyishimwe1@gmail.com
