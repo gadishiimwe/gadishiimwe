@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Gad Ishimwe</h1>
-<h3 align="center">💻 Software Developer | 🌍 Rwanda | 🚀 Founder of IntareTek</h3>
+<h3 align="center">💻 Full Stack Developer | 🌍 Rwanda | 🚀 Founder of IntareTek</h3>
 
 ---
 
