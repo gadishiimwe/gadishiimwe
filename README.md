@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hey there, I'm Gad Ishimwe</h1>
-<h3 align="center">💻 Software Developer | 🌍 Rwanda | 🚀 IntareTek Founder</h3>
+<h3 align="center">💻 Software Developer | 🌍 Rwanda | 🚀 Founder of IntareTek</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a passionate software developer from Rwanda, building modern web apps and digital solutions that solve real-world problems. From user-friendly interfaces to secure backends and intelligent systems — I love the full development journey.
+I'm a passionate software developer from Rwanda, focused on building modern web applications and digital solutions that solve real-world problems. From intuitive interfaces to secure backends and intelligent systems — I enjoy the entire development journey.
 
-- 🔭 Working on: **Car Rentals**, **School Management Systems**, **Church Websites**, **Investment Platforms**, and **AI-integrated Projects**
-- 🌱 Currently learning: **Blockchain**, **Machine Learning**, **DevOps**, and advanced backend architectures
-- 💡 Vision: Build Africa’s most innovative tech empire — one line of code at a time
+- 🔭 Currently working on: **Car Rental Systems**, **School Management Platforms**, **Church Websites**, **Investment Solutions**, and **AI-integrated Projects**
+- 🌱 Always learning: **Blockchain**, **Machine Learning**, **DevOps**, and advanced backend architectures
+- 💡 Personal Mission: Build high-impact software and create lasting tech solutions — one line of code at a time
 
 ---
 
@@ -48,7 +48,6 @@ I'm a passionate software developer from Rwanda, building modern web apps and di
 
 ---
 
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -60,11 +59,11 @@ I'm a passionate software developer from Rwanda, building modern web apps and di
 
 ### 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/gadyishimwe1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadyishimwe1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadishiimwe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/gadyishimwe1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadyishimwe1@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadishiimwe)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
-> 🧠 *“Leadership | Africa’s Offline Plan Is Already Online.”*
+> 🧠 *“Building solutions that matter. Growing one project at a time.”*
