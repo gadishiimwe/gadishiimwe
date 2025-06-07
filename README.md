@@ -44,7 +44,6 @@ I'm a passionate software developer from Rwanda, focused on building modern web 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-
 **Database & Hosting**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![LocalWP](https://img.shields.io/badge/LocalWP-0088CC?style=flat-square&logo=wordpress&logoColor=white)
@@ -59,6 +58,25 @@ I'm a passionate software developer from Rwanda, focused on building modern web 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📜 Certificates
+
+- ✅ **AI Programming** - [Udacity AI Certificate](#)
+- ✅ **Intro to Programming** - [Udacity Programming Certificate](#)
+- ✅ **C++ Programming** - [University of Chicago Certificate](#)
+- ✅ **Java Development** - [University of Chicago Certificate](#)
+- ✅ **HTML Foundations** - [University of Chicago Certificate](#)
+- ✅ **WordPress for Web** - [WordPress Training Certificate](#)
+- ✅ **AI Awareness & Skills** - [Atingi AI Certificate](#)
+- ✅ **Education Leadership** - [EdHeroes Global Forum 2024 Certificate](#)
+- ✅ **Software Development Internship** - [Edureka Certificate](#)
+- ✅ **Web Design** - [FreeCodeCamp Certificate](#)
+- ✅ **Python Programming (Young Learners)** - [Codingal Certificate](#)
+- ✅ **Digital Marketing** - [HubSpot Certificate](#)
+
+> *(Links or previews can be added upon request)*
 
 ---
 
@@ -77,7 +95,6 @@ I'm a passionate software developer from Rwanda, focused on building modern web 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gadishiimwe)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gad-ishimwe/)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/gadishiimwe)
-
 
 ---
 
