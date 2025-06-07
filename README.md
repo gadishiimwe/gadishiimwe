@@ -1,4 +1,4 @@
-<h1 align="center"> Gad Ishimwe | Young Full-Stack Developer & Digital Builder</h1>
+<h1 align="center">  Young Full-Stack Developer & Digital Builder</h1>
 
 <h3 align="center">💻 Full Stack Developer | 🌍 Rwanda | 🚀 Founder of IntareTek</h3>
 
