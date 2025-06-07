@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Gad Ishimwe</h1>
+<h1 align="center">🌟 Gad Ishimwe | Full-Stack Dev Crafting the Future, One Line of Code at a Time</h1>
 <h3 align="center">💻 Full Stack Developer | 🌍 Rwanda | 🚀 Founder of IntareTek</h3>
 
 ---
