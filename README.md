@@ -61,6 +61,16 @@ I'm a passionate software developer from Rwanda, focused on building modern web 
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/gadishiimwe" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=gadishiimwe&theme=dark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 # 📜 My Certificates
 
 ### Programming Languages
