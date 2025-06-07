@@ -63,18 +63,18 @@ I'm a passionate software developer from Rwanda, focused on building modern web 
 
 ### 📜 Certificates
 
-- ✅ **AI Programming** - [Udacity AI Certificate](#)
-- ✅ **Intro to Programming** - [Udacity Programming Certificate](#)
-- ✅ **C++ Programming** - [University of Chicago Certificate](#)
-- ✅ **Java Development** - [University of Chicago Certificate](#)
-- ✅ **HTML Foundations** - [University of Chicago Certificate](#)
-- ✅ **WordPress for Web** - [WordPress Training Certificate](#)
-- ✅ **AI Awareness & Skills** - [Atingi AI Certificate](#)
-- ✅ **Education Leadership** - [EdHeroes Global Forum 2024 Certificate](#)
-- ✅ **Software Development Internship** - [Edureka Certificate](#)
-- ✅ **Web Design** - [FreeCodeCamp Certificate](#)
-- ✅ **Python Programming (Young Learners)** - [Codingal Certificate](#)
-- ✅ **Digital Marketing** - [HubSpot Certificate](#)
+- ✅ [Udacity AI Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/UDACITY%20AI%20CERTIFICATE.pdf?raw=true)
+- ✅ [Udacity Programming Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/UDACITY%20PROGRAMMING%20CERTIFICATE.pdf?raw=true)
+- ✅ [University of Chicago C++ Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/US%20Chicago%20C++%20Certificate.pdf?raw=true)
+- ✅ [University of Chicago HTML Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/US%20Chicago%20HTML%20Certificate.pdf?raw=true)
+- ✅ [University of Chicago Java Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/US%20Chicago%20Java%20Certificate.pdf?raw=true)
+- ✅ [WordPress Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/WordPress%20Certificate.pdf?raw=true)
+- ✅ [Atingi AI Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/AtingiAICertificate.pdf?raw=true)
+- ✅ [EdHeroes Global Forum 2024 Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/Certificate_of_EdHeroes_Global_Forum2024.pdf?raw=true)
+- ✅ [Edureka Internship Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/Edureka%20-%20Internship%20Certificate.pdf?raw=true)
+- ✅ [FreeCodeCamp Web Design Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/FreeCodeCamp-WEB%20DESIGN%20CERTIFICATE.jpeg?raw=true)
+- ✅ [Codingal Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/Gad%20Ishimwe%20Codingal.pdf?raw=true)
+- ✅ [HubSpot Digital Marketing Certificate](https://github.com/gadishiimwe/myrepo/blob/main/certificates/HubSpot%20DIGITAL%20MARKETING%20CERTIFICATE.png?raw=true)
 
 > *(Links or previews can be added upon request)*
 
