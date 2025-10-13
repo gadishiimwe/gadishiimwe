@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Gad Ishimwe — Full-Stack Developer & Digital Builder</h1>
+<h1 align="center">Gad Ishimwe — Full-Stack Developer & Digital Builder</h1>
 
 <h3 align="center">💻 React • Node.js • PHP • MySQL | 🌍 Kigali, Rwanda | Open to Remote Opportunities</h3>
 
